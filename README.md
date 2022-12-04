@@ -17,6 +17,10 @@ load fizzbuzz-naive-elseif.p8
 run
 ```
 
+## References
+
+Original blog post by Imran Ghory: [Using FizzBuzz to Find Developers who Grok Coding](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/).
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
