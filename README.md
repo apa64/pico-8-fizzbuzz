@@ -33,4 +33,4 @@ Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. S
 
 - GitHub repository: [apa64/pico-8-fizzbuzz](https://github.com/apa64/pico-8-fizzbuzz)
 - Lexaloffle BBS: [@apa64](https://www.lexaloffle.com/bbs/?uid=45600)
-- Mastodon: [@apa64@dice.camp](https://dice.camp/@apa64)
+- Mastodon: [@apa64@mementomori.social](https://mementomori.social/@apa64)
